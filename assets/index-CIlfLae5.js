@@ -15538,7 +15538,7 @@ const tT = (t, e) =>
     language: "en",
     userName: "Dome",
     animationEnabled: !0,
-    theme: "lilies",
+    theme: "tulips",
   };
 console.log(Ki);
 const sT = {
@@ -15989,7 +15989,7 @@ const sT = {
     },
     en: {
       title: "Mensajito especial <3",
-      greetings: `Hola, niña bonita {name}!. Buenas tardes 😊🌞. Espero que hayas tenido un hermoso día.${O1}`,
+      greetings: `Hola, {name} bonita!. Buenas tardes 😊🌞. Espero que hayas tenido un hermoso día.${O1}`,
       ask_question:
         "Quisiera hacerte una pregunta, si me permites un momento 🤔💬",
       be_my_valentine:
