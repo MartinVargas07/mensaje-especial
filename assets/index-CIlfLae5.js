@@ -15538,7 +15538,7 @@ const tT = (t, e) =>
     language: "en",
     userName: "Dome",
     animationEnabled: !0,
-    theme: "tulips",
+    theme: "roses",
   };
 console.log(Ki);
 const sT = {
